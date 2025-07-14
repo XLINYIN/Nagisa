@@ -6,4 +6,6 @@ The first author is a huge fans of Japanese singer Kuroki Nagisa, hence we selec
 The code will be released after it is sorted out
 
 The code for Global attribute protection has been released
-![Flowchart](Flowchart.pdf)
+
+
+![Flowchart](Flowchart.png)
